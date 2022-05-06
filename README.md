@@ -1,0 +1,1 @@
+# ogrenci-sinav-kayit-otomasyonu
